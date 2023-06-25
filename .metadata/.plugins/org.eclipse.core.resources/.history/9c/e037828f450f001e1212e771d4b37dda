@@ -1,0 +1,5 @@
+package com.ejada.task1namingserver;
+
+public class GatewayConfig {
+
+}
