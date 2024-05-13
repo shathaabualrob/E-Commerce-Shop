@@ -1,6 +1,6 @@
 # E-Commerce-Shop
 
-Introducing our remarkable e-commerce project, built with Spring Boot and following a microservice architecture. This cutting-edge system comprises three key microservices: Wallet Service, Inventory Service, and Shop Service. Each microservice operates with its own dedicated database, facilitating independent management and scalability. 
+Introducing my e-commerce project, built with Spring Boot and following a microservice architecture. This cutting-edge system comprises three key microservices: Wallet Service, Inventory Service, and Shop Service. Each microservice operates with its own dedicated database, facilitating independent management and scalability. 
 
 To ensure seamless communication and interoperability, these microservices interact with each other via a REST API, leveraging the power of Spring Boot, Spring Cloud, Spring Web, OpenAPI, and Circuit Breaker. 
 
